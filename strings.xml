@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="A01">米家石英表</string>
+    <string name="A02">电池剩余</string>
+    <string name="A03">%</string>
+    <string name="A04">电池电量低查看详情</string>
+    <string name="A05">"今天步数
+"</string>
+    <string name="A06">\u0009步</string>
+    <string name="A08">连接失败,点击重试</string>
+    <string name="A09">设备连接中,请稍候...</string>
+    <string name="A10">连接失败,请检查网络后再试</string>
+    <string name="B01">电池电量</string>
+    <string name="B02">已使用</string>
+    <string name="B03">耗电比例</string>
+    <string name="B04">计时</string>
+    <string name="B05">振动提醒</string>
+    <string name="B06">计步</string>
+    <string name="B07">数据传输</string>
+    <string name="B08">剩余电量</string>
+    <string name="adjust_ponit">指针校准</string>
+    <string name="adjust_step_point">校准计步指针</string>
+    <string name="adjust_step_tip">"滑动下方滚轮,
+使计步指针指示到0"</string>
+    <string name="adjust_sure">校准</string>
+    <string name="adjust_time_fail">时间调整失败，请重试</string>
+    <string name="adjust_time_first_tip">"滑动下方滚轮,使手表上的分针
+指在临近整点刻度,点击下一步"</string>
+    <string name="adjust_time_ing">正在调整时间</string>
+    <string name="adjust_time_point">校准计时指针</string>
+    <string name="adjust_time_to_beijing">正在调整为北京时间</string>
+    <string name="adjust_time_to_hk">正在调整为香港时间</string>
+    <string name="adjust_time_to_tw">正在调整为台北时间</string>
+    <string name="adjust_warning_tip">您应该输入手表时间,而不是标准时间</string>
+    <string name="afternoon">下午</string>
+    <string name="alarm">闹钟</string>
+    <string name="alarm_empty_tip">"还没有添加闹钟，无法提醒
+最多可添加10个"</string>
+    <string name="alarm_most_tip">最多可添加10个闹钟</string>
+    <string name="alert_double">振动时长加倍</string>
+    <string name="allow">确定</string>
+    <string name="battery">电池</string>
+    <string name="birthday">出生年月</string>
+    <string name="ble">蓝牙</string>
+    <string name="ble_connect_off">手表连接已断开，请重新连接</string>
+    <string name="body_info">身体信息</string>
+    <string name="btn_complete">完成</string>
+    <string name="button_cancel">取消</string>
+    <string name="button_delete">删除</string>
+    <string name="button_ok">确定</string>
+    <string name="button_repeat">重复</string>
+    <string name="calibrate">校准</string>
+    <string name="city_most_tip">最多可添加10个城市</string>
+    <string name="close_vibration">关闭振动</string>
+    <string name="connect_know">确定</string>
+    <string name="connect_no_sure">无法连接？</string>
+    <string name="connect_timeout_msg">"请尝试以下方法：
+1.将手表靠近手机，按一下手表按键
+2.重启手机蓝牙或手机
+3.换新手机连接手表时，请先关闭之前手机的蓝牙
+更多建议请在使用帮助中查看"</string>
+    <string name="contact_most_tip">最多可添加10个联系人</string>
+    <string name="current_ver">当前版本:</string>
+    <string name="deal_with_accurate_pos">不确定分针精确位置怎么办？</string>
+    <string name="device_info">设备信息</string>
+    <string name="dfu_file_download_fail">无法下载升级包，请检查网络</string>
+    <string name="dfu_success_exit">升级成功，请退出插件重新连接</string>
+    <string name="download_setting">下载设置</string>
+    <string name="empty_tip_worldtime">还没有添加城市</string>
+    <string name="end_time">结束时间</string>
+    <string name="exit_wait">退出中，请稍侯...</string>
+    <string name="firmware">固件</string>
+    <string name="format_date_month">M月</string>
+    <string name="format_date_no_year">MM月d日</string>
+    <string name="gender">性别</string>
+    <string name="guide_birthday">出生年月</string>
+    <string name="guide_gender">性别</string>
+    <string name="guide_height">身高</string>
+    <string name="guide_tip">为了保证运动数据准确，请核对以下信息</string>
+    <string name="guide_weight">体重</string>
+    <string name="h_hand_position">时针位置</string>
+    <string name="have_adjusted">已校准</string>
+    <string name="have_no_content">没有搜索到匹配的内容</string>
+    <string name="have_used">已使用</string>
+    <string name="height">身高</string>
+    <string name="how_many_hours_ring">后振动</string>
+    <string name="ignore">忽略</string>
+    <string name="img_bottom_tip">点击滚轮可以微调指针</string>
+    <string name="integral">整点</string>
+    <string name="interval_integral_tip">每到整点，手表将振动提醒</string>
+    <string name="interval_off">每隔一段时间，手表将提醒</string>
+    <string name="interval_remind">间隔提醒</string>
+    <string name="interval_tip">每隔%1$d分钟时间，手表将振动提醒</string>
+    <string name="interval_tip_default">每隔一段时间，手表将振动提醒</string>
+    <string name="interval_tip_one">每隔%1$d分钟时间，手表将振动提醒</string>
+    <string name="label_close_auto">低电时自动关闭振动功能</string>
+    <string name="last_step">上一步</string>
+    <string name="less_than_one_minute">不到1分钟振动</string>
+    <string name="loading_wait">数据加载中,请稍候...</string>
+    <string name="low_power_msg">"振动提醒会拉低电压，有可能会造成
+手表意外关机(需换电池后手动校准时间)，
+您是否需要关闭振动以延长使用时间？"</string>
+    <string name="low_power_reject_upgrade">当前电量不足以安全升级固件，请更换电池后再试</string>
+    <string name="low_power_title">手表电量低</string>
+    <string name="m_hand_position">分针位置</string>
+    <string name="menu">菜单范例</string>
+    <string name="menu_alarmclock">闹钟</string>
+    <string name="menu_intent">Intent Menu</string>
+    <string name="menu_intervalremind">间隔提醒</string>
+    <string name="menu_key">范例</string>
+    <string name="menu_vipremind">来电提醒</string>
+    <string name="menu_worldtime">世界时间</string>
+    <string name="model">型号</string>
+    <string name="morning">上午</string>
+    <string name="move_hand">转针</string>
+    <string name="name">名称</string>
+    <string name="nan">男</string>
+    <string name="neednot">不用了</string>
+    <string name="next_step">下一步</string>
+    <string name="no_contact_permission">没有联系人权限，请前往系统设置页面开启应用读取联系人权限。</string>
+    <string name="notdisturb">免打扰时段</string>
+    <string name="nv">女</string>
+    <string name="off">未开启</string>
+    <string name="one_hour">小时</string>
+    <string name="open_ble_tip">当前蓝牙未开启，请先开启蓝牙？</string>
+    <string name="pass">跳过</string>
+    <string name="please_select_city">请选择城市</string>
+    <string name="please_select_contact">请选择联系人</string>
+    <string name="please_select_item">请选择项目</string>
+    <string name="pls_set_pos">请输入手表的指针位置</string>
+    <string name="power_enough">电量充足</string>
+    <string name="power_lower_tip">电量低,请注意更换电池</string>
+    <string name="privacy_policy">隐私条款</string>
+    <string name="read_fail">读取数据失败</string>
+    <string name="recovery_tip">"是否下载您以前的
+手表设置？"</string>
+    <string name="reference_step_hand">"手表步针显示的是概要步数，每走大约400步，
+步针才会行进一格"</string>
+    <string name="reject">取消</string>
+    <string name="reject_switch">当前电量低,无法开启振动功能。</string>
+    <string name="repeat">重复</string>
+    <string name="reset_interval">重新计时</string>
+    <string name="retype">重新输入</string>
+    <string name="search_city">搜索城市</string>
+    <string name="search_contact">搜索联系人</string>
+    <string name="setHeight">身高</string>
+    <string name="set_birthday">出生年月</string>
+    <string name="set_gender">性别</string>
+    <string name="set_interval_duration">设置间隔时间</string>
+    <string name="set_interval_time">设置间隔时间</string>
+    <string name="set_weight">体重</string>
+    <string name="setting_complete">设置完成</string>
+    <string name="setting_waiting">设置中，请稍候...</string>
+    <string name="settting">设置</string>
+    <string name="sorry_not_support_vip">"抱歉，您的手机暂不支持此功能
+目前仅支持苹果和小米手机MIUI9以上"</string>
+    <string name="start_time">开启时间</string>
+    <string name="tap_calibrate">点击校准按钮, 指针会自动转到正确时间</string>
+    <string name="tap_to_exact_mark">"点击转针按钮,
+让分针对齐整刻度"</string>
+    <string name="test_watchlog">实验功能-手表日志</string>
+    <string name="time_day">天</string>
+    <string name="time_has_adjusted">时间已调整</string>
+    <string name="time_hour">时</string>
+    <string name="time_min">分</string>
+    <string name="time_sec">秒</string>
+    <string name="time_still_adjust">继续校准</string>
+    <string name="tip_only_once">"为了延长使用时间,手表会在低电时自动关闭振动。
+您可以在\"更多-振动设置\"中修改。"</string>
+    <string name="title_setalarm">设置闹钟</string>
+    <string name="title_worldtime">世界时间</string>
+    <string name="unit_day">日</string>
+    <string name="unit_fenzhong">分钟</string>
+    <string name="unit_ge">个</string>
+    <string name="unit_gongjin">公斤</string>
+    <string name="unit_gongjin_space">\u0009公斤</string>
+    <string name="unit_hour">\u0009时</string>
+    <string name="unit_kc">\u0009千卡</string>
+    <string name="unit_km">\u0009千米</string>
+    <string name="unit_limi">厘米</string>
+    <string name="unit_min">\u0009分</string>
+    <string name="unit_min1">分钟</string>
+    <string name="unit_min2">分钟</string>
+    <string name="unit_month">月</string>
+    <string name="unit_month_space">\u0009月</string>
+    <string name="unit_ren">人</string>
+    <string name="unit_second">秒</string>
+    <string name="unit_step">\u0009步</string>
+    <string name="unit_week">周</string>
+    <string name="unit_year">年</string>
+    <string name="unit_year_space">\u0009年</string>
+    <string name="upgrade_ing">更新中...</string>
+    <string name="upgrade_success">更新成功</string>
+    <string name="upgrading_tip">"手表固件更新中,请勿退出
+待升级成功后即可使用"</string>
+    <string name="user_agreement">用户协议</string>
+    <string name="useragreement_privacypolicy">使用条款和隐私政策</string>
+    <string name="vibrationsetting">振动设置</string>
+    <string name="vip_alert">来电提醒</string>
+    <string name="vip_empty_tip">"无联系人,无法提醒
+最多可添加10个联系人"</string>
+    <string name="vip_error">该米家应用版本暂不支持来电提醒功能，请升级米家应用。</string>
+    <string name="watch_log">手表日志</string>
+    <string name="watch_pick_hour">时</string>
+    <string name="watch_picker_minute">分</string>
+    <string name="watch_select_all">全选</string>
+    <string name="watch_unselect_all">全不选</string>
+    <string name="weight">体重</string>
+    <string name="what_is_time">"输入手表上指示的时间,
+而非当前标准时间"</string>
+    <string name="world_time">世界时间</string>
+    <string name="xx12">"例如，手表指针显示为10点8分左右时，
+请把分针转到10点10分"</string>
+    <string name="xx_00">点击校准按钮, 步针会自动指向当前准确步数</string>
+    <string name="xx_01">"点击或长按转针按钮，转动
+步针，通过不断点按，
+使步针指向0刻度"</string>
+    <string name="xx_03">步针未动怎么回事?</string>
+    <string name="app_name">com.xiaomi.common</string>
+    <string name="cancel">取消</string>
+    <string name="know_button">我知道了</string>
+    <string name="ok_button">确定</string>
+    <string name="picker_day">日</string>
+    <string name="picker_hour">时</string>
+    <string name="picker_minite">分</string>
+    <string name="picker_month">月</string>
+    <string name="picker_year">年</string>
+    <string name="pull_down_refresh">下拉刷新</string>
+    <string name="refreshing">载入中…</string>
+    <string name="refreshing_no_point">载入中</string>
+    <string name="refreshing_retry">加载失败，重试？</string>
+    <string name="release_to_refresh">松开刷新</string>
+    <string name="alarm_time_min">分钟</string>
+    <string name="btb_close_vibrate">关闭振动</string>
+    <string name="btn_ignore">忽略</string>
+    <string name="action_back">返回</string>
+    <string name="action_menu">操作</string>
+    <string name="dfu_action_abort">Abort</string>
+    <string name="dfu_status_aborted">Aborted</string>
+    <string name="dfu_status_aborted_msg">Application upload has been canceled.</string>
+    <string name="dfu_status_aborting">Aborting…</string>
+    <string name="dfu_status_completed">Done</string>
+    <string name="dfu_status_completed_msg">Application has been sent successfully.</string>
+    <string name="dfu_status_connecting">Connecting…</string>
+    <string name="dfu_status_connecting_msg">Connecting to %s…</string>
+    <string name="dfu_status_disconnecting">Disconnecting…</string>
+    <string name="dfu_status_disconnecting_msg">Disconnecting from %s…</string>
+    <string name="dfu_status_error">Upload failed</string>
+    <string name="dfu_status_error_msg">DFU process failed.</string>
+    <string name="dfu_status_initializing">Initializing…</string>
+    <string name="dfu_status_starting">Starting DFU…</string>
+    <string name="dfu_status_starting_msg">Initializing DFU process…</string>
+    <string name="dfu_status_switching_to_dfu">Starting bootloader…</string>
+    <string name="dfu_status_switching_to_dfu_msg">Waiting for bootloader…</string>
+    <string name="dfu_status_uploading">Uploading…</string>
+    <string name="dfu_status_uploading_msg">Transmitting firmware to %s…</string>
+    <string name="dfu_status_uploading_part" formatted="false">Uploading part %d/%d…</string>
+    <string name="dfu_status_validating">Validating…</string>
+    <string name="dfu_status_validating_msg">Validating…</string>
+    <string name="dfu_unknown_name">unnamed device</string>
+    <string name="progress_dialog_already">已完成</string>
+    <string name="select_all">全选</string>
+    <string name="setting_title">通用设置</string>
+    <string name="unselect_all">全不选</string>
+</resources>
