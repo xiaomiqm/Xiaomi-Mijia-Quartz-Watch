@@ -43,45 +43,45 @@
         <item>포인터 캘리브레이션</item>
         <item>진동 설정</item>
         <item>도움말</item>
-        <item>实验功能-手表日志</item>
-        <item>调试菜单</item>
+        <item>워치 로그</item>
+        <item>디버그 메뉴</item>
     </string-array>
     <string-array name="normal_repeat_type">
-        <item>只响一次</item>
-        <item>每天</item>
-        <item>周一至周五</item>
-        <item>自定义</item>
+        <item>한번만</item>
+        <item>매일</item>
+        <item>월 ~ 금</item>
+        <item>사용자 지정</item>
     </string-array>
     <string-array name="power_consumption">
-        <item>计时 -</item>
-        <item>震动提醒 -</item>
-        <item>计步 -</item>
-        <item>数据传输 -</item>
+        <item>타이밍 -</item>
+        <item>진동 알림 -</item>
+        <item>step by step -</item>
+        <item>데이터 전송 -</item>
     </string-array>
     <string-array name="repeattype">
-        <item>只响一次</item>
-        <item>每天</item>
-        <item>法定工作日</item>
-        <item>法定节假日</item>
-        <item>周一至周五</item>
-        <item>自定义</item>
+        <item>한번만 알림</item>
+        <item>매일</item>
+        <item>법정 근로일</item>
+        <item>법정 공휴일</item>
+        <item>월요일 ~ 금요일</item>
+        <item>사용자 지정</item>
     </string-array>
     <string-array name="sheet_grid_day">
-        <item>"步数
+        <item>"걸음
 "</item>
-        <item>"时长
+        <item>"길이
 "</item>
-        <item>"里程
+        <item>"마일
 "</item>
-        <item>"消耗
+        <item>"
 "</item>
     </string-array>
     <string-array name="sheet_grid_mon">
-        <item>"日均步数
+        <item>"일 평균 걸음 수
 "</item>
-        <item>"日均时长
+        <item>"일 평균 거리
 "</item>
-        <item>"总里程
+        <item>"
 "</item>
         <item>"总消耗
 "</item>
