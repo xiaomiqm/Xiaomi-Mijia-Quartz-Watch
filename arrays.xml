@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="datasheet_bar">
-        <item>日</item>
-        <item>周</item>
-        <item>月</item>
+        <item>일</item>
+        <item>주</item>
+        <item>월</item>
     </string-array>
     <string-array name="day_period">
-        <item>上午</item>
-        <item>下午</item>
+        <item>오전</item>
+        <item>오후</gitem>
     </string-array>
     <string-array name="indexable_letter">
         <item>A</item>
@@ -38,11 +38,11 @@
         <item>Z</item>
     </string-array>
     <string-array name="menu_normal_array">
-        <item>身体信息</item>
-        <item>设备信息</item>
-        <item>指针校准</item>
-        <item>振动设置</item>
-        <item>使用帮助</item>
+        <item>사용자 신체 정보</item>
+        <item>기기 정보</item>
+        <item>포인터 캘리브레이션</item>
+        <item>진동 설정</item>
+        <item>도움말</item>
         <item>实验功能-手表日志</item>
         <item>调试菜单</item>
     </string-array>
