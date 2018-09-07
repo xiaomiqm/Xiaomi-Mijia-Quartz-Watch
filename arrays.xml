@@ -81,29 +81,29 @@
 "</item>
         <item>"일 평균 거리
 "</item>
-        <item>"
+        <item>"총 거리
 "</item>
-        <item>"总消耗
+        <item>"총 소비량
 "</item>
     </string-array>
     <string-array name="sheet_grid_week">
-        <item>"日均步数
+        <item>"일 평균 걸음 수
 "</item>
-        <item>"日均时长
+        <item>"일 평균 거리
 "</item>
-        <item>"总里程
+        <item>"총 거리
 "</item>
-        <item>"总消耗
+        <item>"총 소비량
 "</item>
     </string-array>
     <string-array name="simple_week">
-        <item>周一</item>
-        <item>周二</item>
-        <item>周三</item>
-        <item>周四</item>
-        <item>周五</item>
-        <item>周六</item>
-        <item>周日</item>
+        <item>월요일</item>
+        <item>화요일</item>
+        <item>수요일</item>
+        <item>목요일</item>
+        <item>금요일</item>
+        <item>토요일</item>
+        <item>일요일</item>
     </string-array>
     <string-array name="wait_ellipse">
         <item>...</item>
@@ -112,38 +112,38 @@
         <item></item>
     </string-array>
     <string-array name="week">
-        <item>星期一</item>
-        <item>星期二</item>
-        <item>星期三</item>
-        <item>星期四</item>
-        <item>星期五</item>
-        <item>星期六</item>
-        <item>星期日</item>
+        <item>월요일</item>
+        <item>화요일</item>
+        <item>수요일</item>
+        <item>목요일</item>
+        <item>금요일</item>
+        <item>토요일</item>
+        <item>일요일</item>
     </string-array>
     <string-array name="week_foreign">
-        <item>星期日</item>
-        <item>星期一</item>
-        <item>星期二</item>
-        <item>星期三</item>
-        <item>星期四</item>
-        <item>星期五</item>
-        <item>星期六</item>
+        <item>월요일</item>
+        <item>화요일</item>
+        <item>수요일</item>
+        <item>목요일</item>
+        <item>금요일</item>
+        <item>토요일</item>
+        <item>일요일</item>
     </string-array>
     <string-array name="worldtime_list0">
-        <item>设定为手表时间</item>
-        <item>删除</item>
-        <item>取消</item>
+        <item> 시간으로 설정되었습니다.</item>
+        <item>삭제</item>
+        <item>취소</item>
     </string-array>
     <string-array name="worldtime_list1">
-        <item>设定为手表时间</item>
-        <item>取消</item>
+        <item> 시간으로 설정되었습니다.</item>
+        <item>취소</item>
     </string-array>
     <string-array name="debug_step">
-        <item>慢走</item>
-        <item>快走</item>
-        <item>慢跑</item>
-        <item>快跑</item>
-        <item>上下楼梯</item>
+        <item>천천히 걷기</item>
+        <item>빨리 걷기</item>
+        <item>조깅</item>
+        <item>달리기</item>
+        <item>계단 오르내리기</item>
     </string-array>
     <string-array name="hour_positon">
         <item>0</item>
