@@ -1,105 +1,105 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="A01">米家石英表</string>
-    <string name="A02">电池剩余</string>
+    <string name="A01">미지아 쿼츠 시계</string>
+    <string name="A02">배터리 잔량</string>
     <string name="A03">%</string>
-    <string name="A04">电池电量低查看详情</string>
-    <string name="A05">"今天步数
+    <string name="A04">배터리가 부족합니다.</string>
+    <string name="A05">"오늘 걸은 걸음
 "</string>
-    <string name="A06">\u0009步</string>
-    <string name="A08">连接失败,点击重试</string>
-    <string name="A09">设备连接中,请稍候...</string>
-    <string name="A10">连接失败,请检查网络后再试</string>
-    <string name="B01">电池电量</string>
-    <string name="B02">已使用</string>
-    <string name="B03">耗电比例</string>
-    <string name="B04">计时</string>
-    <string name="B05">振动提醒</string>
-    <string name="B06">计步</string>
-    <string name="B07">数据传输</string>
-    <string name="B08">剩余电量</string>
-    <string name="adjust_ponit">指针校准</string>
-    <string name="adjust_step_point">校准计步指针</string>
+    <string name="A06">\u0009걸음</string>
+    <string name="A08">연결하지 못했습니다. 다시 시도하십시오.</string>
+    <string name="A09">기기를 연결중입니다. 잠시만 기다려 주십시오.</string>
+    <string name="A10">연결하지 못했습니다. 네트워크 연결을 확인한 후 다시 시도하십시오.</string>
+    <string name="B01">배터리 전원</string>
+    <string name="B02">사용됨</string>
+    <string name="B03">전력 소비율</string>
+    <string name="B04">시간</string>
+    <string name="B05">진동 알림</string>
+    <string name="B06">걸은 걸음</string>
+    <string name="B07">데이터 전송</string>
+    <string name="B08">남은 배터리 잔량</string>
+    <string name="adjust_ponit">시계 바늘 캘리브레이션</string>
+    <string name="adjust_step_point">걸음 캘리브레이션 완료</string>
     <string name="adjust_step_tip">"滑动下方滚轮,
 使计步指针指示到0"</string>
-    <string name="adjust_sure">校准</string>
-    <string name="adjust_time_fail">时间调整失败，请重试</string>
-    <string name="adjust_time_first_tip">"滑动下方滚轮,使手表上的分针
-指在临近整点刻度,点击下一步"</string>
-    <string name="adjust_time_ing">正在调整时间</string>
-    <string name="adjust_time_point">校准计时指针</string>
-    <string name="adjust_time_to_beijing">正在调整为北京时间</string>
-    <string name="adjust_time_to_hk">正在调整为香港时间</string>
-    <string name="adjust_time_to_tw">正在调整为台北时间</string>
-    <string name="adjust_warning_tip">您应该输入手表时间,而不是标准时间</string>
-    <string name="afternoon">下午</string>
-    <string name="alarm">闹钟</string>
-    <string name="alarm_empty_tip">"还没有添加闹钟，无法提醒
-最多可添加10个"</string>
-    <string name="alarm_most_tip">最多可添加10个闹钟</string>
-    <string name="alert_double">振动时长加倍</string>
-    <string name="allow">确定</string>
-    <string name="battery">电池</string>
-    <string name="birthday">出生年月</string>
-    <string name="ble">蓝牙</string>
-    <string name="ble_connect_off">手表连接已断开，请重新连接</string>
-    <string name="body_info">身体信息</string>
-    <string name="btn_complete">完成</string>
-    <string name="button_cancel">取消</string>
-    <string name="button_delete">删除</string>
-    <string name="button_ok">确定</string>
-    <string name="button_repeat">重复</string>
-    <string name="calibrate">校准</string>
-    <string name="city_most_tip">最多可添加10个城市</string>
-    <string name="close_vibration">关闭振动</string>
-    <string name="connect_know">确定</string>
-    <string name="connect_no_sure">无法连接？</string>
-    <string name="connect_timeout_msg">"请尝试以下方法：
-1.将手表靠近手机，按一下手表按键
-2.重启手机蓝牙或手机
-3.换新手机连接手表时，请先关闭之前手机的蓝牙
-更多建议请在使用帮助中查看"</string>
-    <string name="contact_most_tip">最多可添加10个联系人</string>
-    <string name="current_ver">当前版本:</string>
-    <string name="deal_with_accurate_pos">不确定分针精确位置怎么办？</string>
-    <string name="device_info">设备信息</string>
-    <string name="dfu_file_download_fail">无法下载升级包，请检查网络</string>
-    <string name="dfu_success_exit">升级成功，请退出插件重新连接</string>
-    <string name="download_setting">下载设置</string>
-    <string name="empty_tip_worldtime">还没有添加城市</string>
-    <string name="end_time">结束时间</string>
-    <string name="exit_wait">退出中，请稍侯...</string>
-    <string name="firmware">固件</string>
-    <string name="format_date_month">M月</string>
-    <string name="format_date_no_year">MM月d日</string>
-    <string name="gender">性别</string>
-    <string name="guide_birthday">出生年月</string>
-    <string name="guide_gender">性别</string>
-    <string name="guide_height">身高</string>
-    <string name="guide_tip">为了保证运动数据准确，请核对以下信息</string>
-    <string name="guide_weight">体重</string>
-    <string name="h_hand_position">时针位置</string>
-    <string name="have_adjusted">已校准</string>
-    <string name="have_no_content">没有搜索到匹配的内容</string>
-    <string name="have_used">已使用</string>
-    <string name="height">身高</string>
-    <string name="how_many_hours_ring">后振动</string>
-    <string name="ignore">忽略</string>
-    <string name="img_bottom_tip">点击滚轮可以微调指针</string>
-    <string name="integral">整点</string>
-    <string name="interval_integral_tip">每到整点，手表将振动提醒</string>
-    <string name="interval_off">每隔一段时间，手表将提醒</string>
-    <string name="interval_remind">间隔提醒</string>
-    <string name="interval_tip">每隔%1$d分钟时间，手表将振动提醒</string>
-    <string name="interval_tip_default">每隔一段时间，手表将振动提醒</string>
-    <string name="interval_tip_one">每隔%1$d分钟时间，手表将振动提醒</string>
-    <string name="label_close_auto">低电时自动关闭振动功能</string>
-    <string name="last_step">上一步</string>
-    <string name="less_than_one_minute">不到1分钟振动</string>
-    <string name="loading_wait">数据加载中,请稍候...</string>
-    <string name="low_power_msg">"振动提醒会拉低电压，有可能会造成
-手表意外关机(需换电池后手动校准时间)，
-您是否需要关闭振动以延长使用时间？"</string>
+    <string name="adjust_sure">캘리브레이션</string>
+    <string name="adjust_time_fail">시간을 변경하지 못했습니다. 다시 시도하십시오.</string>
+    <string name="adjust_time_first_tip">"시계 분침을 조정하려면 하단부 휠을 돌리십시오.
+확인한 후 '다음' 버튼을 클릭하십시오."</string>
+    <string name="adjust_time_ing">시간 변경중</string>
+    <string name="adjust_time_point">시계 침 조정중</string>
+    <string name="adjust_time_to_beijing">베이징 시간으로 변경중</string>
+    <string name="adjust_time_to_hk">홍콩 시간으로 변경중</string>
+    <string name="adjust_time_to_tw">타이완 시간으로 변경중</string>
+    <string name="adjust_warning_tip">표준 시간이 아닌 시계에 표시된 시간을 입력하십시오.</string>
+    <string name="afternoon">오후</string>
+    <string name="alarm">알람</string>
+    <string name="alarm_empty_tip">"아직 설정된 알람이 없습니다.
+최대 10개까지 지정하실 수 있습니다."</string>
+    <string name="alarm_most_tip">최대 10개의 알람을 설정할 수 있습니다.</string>
+    <string name="alert_double">진동 시간</string>
+    <string name="allow">확인</string>
+    <string name="battery">배터리</string>
+    <string name="birthday">출생연도</string>
+    <string name="ble">블루투스</string>
+    <string name="ble_connect_off">시계 연결이 해제되었습니다. 다시 연결하십시오.</string>
+    <string name="body_info">신체 정보</string>
+    <string name="btn_complete">완료</string>
+    <string name="button_cancel">취소</string>
+    <string name="button_delete">삭제</string>
+    <string name="button_ok">확인</string>
+    <string name="button_repeat">반복</string>
+    <string name="calibrate">캘리브레이션</string>
+    <string name="city_most_tip">최대 10개 도시 추가 가능</string>
+    <string name="close_vibration">진동 끄기</string>
+    <string name="connect_know">확인</string>
+    <string name="connect_no_sure">연결할 수 없나요?</string>
+    <string name="connect_timeout_msg">"다음을 시도해 보십시오 : 
+1. 휴대폰과 시계 연결을 해제하고 시계 버튼을 누르십시오.
+2. 휴대폰을 다시 시작하십시오.
+3. 시계를 새 휴대폰으로 전환할 경우에는 이전 휴대폰의 블루투스를 끄십시오.
+자세한 내용은 도움말을 참고하십시오."</string>
+    <string name="contact_most_tip">최대 10개의 연락처를 추가할 수 있습니다.</string>
+    <string name="current_ver">현재 버전 : </string>
+    <string name="deal_with_accurate_pos">분침의 정확한 위치를 모르면 어떻게 해야 하나요?</string>
+    <string name="device_info">기기 정보</string>
+    <string name="dfu_file_download_fail">업데이트 패키지를 다운로드할 수 없습니다. 네트워크 연결을 확인하십시오.</string>
+    <string name="dfu_success_exit">업데이트를 완료했습니다. 다시 실행하십시오.</string>
+    <string name="download_setting">다운로드 설정</string>
+    <string name="empty_tip_worldtime">추가된 도시 없음</string>
+    <string name="end_time">완료 시간</string>
+    <string name="exit_wait">종료중입니다. 잠시만 기다려 주십시오...</string>
+    <string name="firmware">펌웨어</string>
+    <string name="format_date_month">M월</string>
+    <string name="format_date_no_year">MM월d일</string>
+    <string name="gender">성별</string>
+    <string name="guide_birthday">생년월일</string>
+    <string name="guide_gender">성별</string>
+    <string name="guide_height">키</string>
+    <string name="guide_tip">정확한 데이터를 얻으려면 다음을 확인하십시오.</string>
+    <string name="guide_weight">몸무게</string>
+    <string name="h_hand_position">시침 위치</string>
+    <string name="have_adjusted">보정 완료</string>
+    <string name="have_no_content">일치하는 컨텐츠가 없습니다.</string>
+    <string name="have_used">사용됨</string>
+    <string name="height">키</string>
+    <string name="how_many_hours_ring">반복 진동</string>
+    <string name="ignore">무시</string>
+    <string name="img_bottom_tip">시계 침을 조정하려면 시계 휠을 누르십시오.</string>
+    <string name="integral">전체 점</string>
+    <string name="interval_integral_tip">설정한 간격마다 반복 알림을 받습니다.</string>
+    <string name="interval_off">설정한 간격을 두고 반복 알림을 받게 됩니다.</string>
+    <string name="interval_remind">반복 진동 알림</string>
+    <string name="interval_tip">%1$d분이 되면 시계가 진동을 울립니다.</string>
+    <string name="interval_tip_default">설정한 간격을 두고 반복 알림을 받게 됩니다.</string>
+    <string name="interval_tip_one">%1$d분이 되면 시계가 진동을 울립니다.</string>
+    <string name="label_close_auto">배터리가 부족할 때 자동으로 반복 알림 해제</string>
+    <string name="last_step">이전 단계</string>
+    <string name="less_than_one_minute">1분 이내 진동</string>
+    <string name="loading_wait">데이터 로딩중, 잠시만 기다리십시오...</string>
+    <string name="low_power_msg">"진동 알림은 빠른 배터리 소모의 요인이 될 수 있습니다.
+시계가 예기치 않게 꺼졌습니다. (배터리 교체 후 수동 보정 시간이 필요함)
+사용 시간을 연장하기 위해 모든 진동을 차단하시겠습니까?"</string>
     <string name="low_power_reject_upgrade">当前电量不足以安全升级固件，请更换电池后再试</string>
     <string name="low_power_title">手表电量低</string>
     <string name="m_hand_position">分针位置</string>
